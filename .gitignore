@@ -5,5 +5,4 @@ __pychache__/
 .vscode/
 db.sqlite3
 **/migrations/**
-!**/migrations
 !**/migrations/__init__.py
